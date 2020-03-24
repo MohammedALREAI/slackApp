@@ -1,0 +1,12 @@
+{
+  "extends": "eslint:recommended",
+
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "singleQuote": true,
+  "printWidth": 140,
+  "rules": {
+    "semi": ["error", "always"],
+    "quotes": ["error", "double"]
+  }
+}
